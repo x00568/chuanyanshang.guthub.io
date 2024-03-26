@@ -1,12 +1,12 @@
 ---
-title: "Coordination chemistry in modulating electronic structures of perovskite-type oxide nanocrystals for oxygen evolution catalysis"
+title: "Electron Correlations Engineer Catalytic Activity of Pyrochlore Iridates for Acidic Water Oxidation"
 authors:
 - admin
-date: "2023-06-15T00:00:00Z"
-doi: "https://doi.org/10.1016/j.ccr.2023.215109"
+date: "2018-10-14T00:00:00Z"
+doi: " https://doi.org/10.1002/adma.201805104"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-15T00:00:00Z"
+publishDate: "2018-10-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: "Coordination Chemistry Reviews"
 publication_short: ""
 
-abstract: Perovskite-type oxide nanocrystals (AxByOz) have attracted increasing interest as efficient oxygen evolution reaction (OER) catalysts, which possess distinct thermal stability, ionic conductivity and electron mobility properties. Particularly, the electronic structure of perovskite-type nanocrystal plays a decisive role in electrocatalytic performance. Here, we systematically investigate the eg orbital filling, metal-oxygen hybridization, and electron correlations of perovskite-type oxide nanocrystals for high-performance OER catalysis. Meanwhile, the construction strategies for controlling the atomic configurations of adjacent sites and coordination environments in perovskite-type catalysts are also discussed for the rational design of efficient OER catalysts. Notably, we build a bridge between coordination environments, electronic structures, and catalytic activity of catalysts by focusing on the physicochemical properties of catalysts in terms of atom replacement, atom doping, and oxygen vacancy. This work would provide the readers with a comprehensive understanding and updated information towards the design of perovskite-type oxide nanocrystals with well-confined electronic properties for electrocatalysis. Finally, a perspective is given on the opportunities and further research directions of perovskite-based electrocatalysts for OER as well as the challenges involved in this task.
+abstract: The development of highly efficient oxygen-evolving catalysts compatible with powerful proton-exchange-membrane-based electrolyzers in acid environments is of prime importance for sustainable hydrogen production. In this field, understanding the role of electronic structure of catalysts on catalytic activity is essential but still lacking. Herein, a family of pyrochlore oxides R2Ir2O7 (R = rare earth ions) is reported as acidic oxygen-evolving catalysts with superior-specific activities. More importantly, it is found that the intrinsic activity of this material significantly increases with the R ionic radius. Electronic structure studies reveal that the increased R ionic radius weakens electron correlations in these iridate oxides. This weakening induces an insulator–metal transition and an enhancement of IrO bond covalency, both of which promote oxygen evolution kinetics. This work demonstrates the importance of engineering the electron correlations to rationalize the catalytic activity toward water oxidation in strongly correlated transition-metal oxides.
 
 # Summary. An optional shortened abstract.
-summary: A review on electrocatalysts optimized with perovskite-type oxide nanocrystals for oxygen evolution reaction (OER).
+summary: Electron Correlations Engineer Catalytic Activity of Pyrochlore Iridates for Acidic Water Oxidation.
 
 tags:
 - Source Themes
@@ -28,8 +28,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: https://doi.org/10.1016/j.ccr.2023.215109
-url_pdf: https://doi.org/10.1016/j.ccr.2023.215109
+  url:  https://doi.org/10.1002/adma.201805104
+url_pdf:  https://doi.org/10.1002/adma.201805104
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
