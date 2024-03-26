@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-      - course: Researcher
+    - course: Researcher
       institution: Shenzhen University
       year: 2024.01~Now
     - course: Postdoctoral
