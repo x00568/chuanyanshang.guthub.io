@@ -29,61 +29,70 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Electrochemical catalysis
+  - nanomaterials
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - Course: Postdoctoral
+        Institution: Southern University of Science and Technology
+        Year: 2022.02~2024.01
+    - Course: Lecturer
+        Institution: Wuhan Engineering University
+        Year: 2020.09~2022.02
+    - Course: PhD
+        Institution: University of Science and Technology of China
+        Year: 2015.09~2020.07
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Electrochemical comprehensive analysis tester
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Fourier transform infrared spectrometer
         description: ''
         percent: 100
-        icon: chart-line
+        icon: python
         icon_pack: fas
-      - name: SQL
+      - name: Fully automatic temperature-programmed chemical adsorption instrument
         description: ''
         percent: 40
-        icon: database
+        icon: python
+        icon_pack: fas
+      - name: Low temperature tube furnace
+        description: ''
+        percent: 40
+        icon: python
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Chromatography use
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: python
         icon_pack: fas
-      - name: Cats
+      - name: atomic force microscope
         description: ''
         percent: 100
-        icon: cat
+        icon: python
         icon_pack: fas
-      - name: Photography
+      - name: Transmission electron microscope
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: python
+        icon_pack: fas
+      - name: scanning electron microscope
+        description: ''
+        percent: 80
+        icon: python
         icon_pack: fas
 
 # Highlight the author in author lists? (true/false)
