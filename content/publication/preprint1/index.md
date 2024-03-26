@@ -14,7 +14,7 @@ publishDate: "2019-08-27T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Coordination Chemistry Reviews"
+publication: "Angewandte Chemie"
 publication_short: ""
 
 abstract: Developing bifunctional catalysts for both hydrogen and oxygen evolution reactions is a promising approach to the practical implementation of electrocatalytic water splitting. However, most of the reported bifunctional catalysts are only applicable to alkaline electrolyzer, although a few are effective in acidic or neutral media that appeals more to industrial applications. Here, a lithium-intercalated iridium diselenide (Li-IrSe2) is developed that outperformed other reported catalysts toward overall water splitting in both acidic and neutral environments. Li intercalation activated the inert pristine IrSe2 via bringing high porosities and abundant Se vacancies for efficient hydrogen and oxygen evolution reactions. When Li-IrSe2 was assembled into two-electrode electrolyzers for overall water splitting, the cell voltages at 10 mA cm−2 were 1.44 and 1.50 V under pH 0 and 7, respectively, being record-low values in both conditions..

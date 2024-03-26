@@ -14,7 +14,7 @@ publishDate: "2018-10-14T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Coordination Chemistry Reviews"
+publication: "Advanced Materials"
 publication_short: ""
 
 abstract: The development of highly efficient oxygen-evolving catalysts compatible with powerful proton-exchange-membrane-based electrolyzers in acid environments is of prime importance for sustainable hydrogen production. In this field, understanding the role of electronic structure of catalysts on catalytic activity is essential but still lacking. Herein, a family of pyrochlore oxides R2Ir2O7 (R = rare earth ions) is reported as acidic oxygen-evolving catalysts with superior-specific activities. More importantly, it is found that the intrinsic activity of this material significantly increases with the R ionic radius. Electronic structure studies reveal that the increased R ionic radius weakens electron correlations in these iridate oxides. This weakening induces an insulator–metal transition and an enhancement of IrO bond covalency, both of which promote oxygen evolution kinetics. This work demonstrates the importance of engineering the electron correlations to rationalize the catalytic activity toward water oxidation in strongly correlated transition-metal oxides.
