@@ -35,15 +35,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - Course: Postdoctoral
-        Institution: Southern University of Science and Technology
-        Year: 2022.02~2024.01
-    - Course: Lecturer
-        Institution: Wuhan Engineering University
-        Year: 2020.09~2022.02
-    - Course: PhD
-        Institution: University of Science and Technology of China
-        Year: 2015.09~2020.07
+      - course: Researcher
+      institution: Shenzhen University
+      year: 2024.01~Now
+    - course: Postdoctoral
+      institution: Southern University of Science and Technology
+      year: 2022.02~2024.01
+    - course: Lecturer
+      institution: Wuhan Engineering University
+      year: 2020.09~2022.02
+    - course: PhD
+      institution: University of Science and Technology of China
+      year: 2015.09~2020.07
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
