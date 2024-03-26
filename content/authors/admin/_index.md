@@ -62,17 +62,17 @@ skills:
         description: ''
         percent: 100
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: Fully automatic temperature-programmed chemical adsorption instrument
         description: ''
         percent: 40
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: Low temperature tube furnace
         description: ''
         percent: 40
         icon: python
-        icon_pack: fas
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -81,22 +81,22 @@ skills:
         description: ''
         percent: 60
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: atomic force microscope
         description: ''
         percent: 100
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: Transmission electron microscope
         description: ''
         percent: 80
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: scanning electron microscope
         description: ''
         percent: 80
         icon: python
-        icon_pack: fas
+        icon_pack: fab
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
