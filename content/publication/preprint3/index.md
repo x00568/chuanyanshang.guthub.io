@@ -1,12 +1,12 @@
 ---
-title: "A hydrangea-like superstructure of ZnS@MoS2 nanosheets as efficient electrocatalyst for hydrogen evolution reaction"
+title: "Fused deposition modeling of high-loading-fraction bonded Fe–Si–Al/PP magnets"
 authors:
 - admin
-date: "2022-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.flatc.2022.100441"
+date: "2021-12-16T00:00:00Z"
+doi: "https://doi.org/10.1007/s00339-021-05187-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-11-01T00:00:00Z"
+publishDate: "2021-12-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,13 +14,13 @@ publishDate: "2022-11-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "FlatChem"
+publication: "Applied Physics A"
 publication_short: ""
 
-abstract: The development of low-cost and high active electrocatalysts for hydrogen evolution reaction (HER) is essential for the sustainable energy and environment. Here we report a hydrothermal method to prepare ZnS@MoS2 nanosheets with hydrangea-like superstructure for enhanced HER. Benefiting from their abundant edge sites and facilitated charge transfer, the ZnS@MoS2 exhibited excellent HER performance with low overpotential of 106 mV and small Tafel slope of 73 mV dec−1. In addition, the chronoamperometry measurement results suggested the well-remained current density for 36 h without significant change, which indicated the excellent stability of ZnS@MoS2 superstructure. This work not only provides an effective method for constructing hierarchical heterojunctions, but also gives us a multi-scale strategy for the regulation of metal-based nanomaterials’ structure in energy-related applications.
+abstract: Fused deposition modeling provides an effective means for complex molding of Fe–Si–Al bonded magnets, but the fused deposition molding of Fe–Si–Al bonded magnets with high magnetic powder content is still a challenge. In this work, we used a miniature single screw as a print head to study the magnetic properties, mechanical properties and microstructure properties of Fe–Si–Al bonded magnets with different magnetic powders content. Compared with the molded samples made of the same raw material, the overall performance of the bonded magnet is the best. The Fe–Si–Al bonded magnets show a saturation magnetization of 123 emu/g and an ultimate tensile strength of 11.2 MPa. Moreover, its performance is equivalent to that of the compressed sample with the same magnetic powder content when the magnetic powder content is 94 wt%. This research provides a method for the composite molding of Fe–Si–Al bonded magnets with high magnetic powder content and lays a technical foundation for the application of Fe–Si–Al bonded magnets.
 
 # Summary. An optional shortened abstract.
-summary: Synthesis of hydrangea-like ZnS@MoS2 superstructure by a simple one-step hydrothermal sulfide method using ZIF-8-derived ZnO as a template.
+summary: This work was supported by the Special Projects of the Central Government in Guidance of Local Science and Technology Development in Hubei Province (2020ZYYD040), the second batch of the Key Research and Development Project of Hubei Province (2020BAB073) and Outstanding Young and Middle-aged Scientific Innovation Team of Colleges and Universities of Hubei Province: “Biomass chemical technologies and materials” (Grant No. T201908). This work was partially carried out at the Key Research and Development Program of Zhejiang Province (Grant No. 2019C01089) and the Natural Science Foundation of Ningbo City (Grant Nos. 2018A610167 and 2018A610322).
 
 tags:
 - Source Themes
@@ -28,8 +28,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url:  https://doi.org/10.1016/j.flatc.2022.100441
-url_pdf:  https://doi.org/10.1016/j.flatc.2022.100441
+  url:  https://doi.org/10.1007/s00339-021-05187-0
+url_pdf:  https://doi.org/10.1007/s00339-021-05187-0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
