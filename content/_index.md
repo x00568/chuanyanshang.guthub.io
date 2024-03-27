@@ -94,21 +94,25 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
       filters:
         folders:
-          - event
+          - publication
+        featured_only: true
     design:
       columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+      view: card
   - block: contact
     id: contact
     content:
