@@ -55,7 +55,7 @@ skills:
     items:
       - name: Electrochemical comprehensive analysis tester
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Fourier transform infrared spectrometer
@@ -65,12 +65,12 @@ skills:
         icon_pack: fab
       - name: Fully automatic temperature-programmed chemical adsorption instrument
         description: ''
-        percent: 40
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Low temperature tube furnace
         description: ''
-        percent: 40
+        percent: 100
         icon: python
         icon_pack: fab
   - name: Hobbies
@@ -79,7 +79,7 @@ skills:
     items:
       - name: Chromatography use
         description: ''
-        percent: 60
+        percent: 90
         icon: python
         icon_pack: fab
       - name: atomic force microscope
@@ -89,12 +89,12 @@ skills:
         icon_pack: fab
       - name: Transmission electron microscope
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: scanning electron microscope
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
 
