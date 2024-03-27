@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 商春彦
+# title: 商春彦
 
 # Name pronunciation (optional)
 name_pronunciation: Chun Yan Shang
